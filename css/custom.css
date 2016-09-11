@@ -1,0 +1,24 @@
+/* Put your custom CSS code here */
+
+.fld-label
+{
+	text-align: right
+}
+
+.text-box
+{
+	color: #333333;
+	margin: 0 0 0 10px;
+	float: left;
+	padding: 5px;
+}
+
+.rounded-corners
+{
+	border-radius: 5pt;
+}
+
+.number-padding
+{
+	padding-left: 15px;
+}
